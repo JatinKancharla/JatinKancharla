@@ -20,7 +20,7 @@ I love designing intelligent systems that transform innovative ideas into realit
 
 ---
 
-## ⚙️ Tech Arsenal  
+## ⚙️ Tech Stack  
 
 <div align="center">
 
@@ -37,7 +37,7 @@ I love designing intelligent systems that transform innovative ideas into realit
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects  
 
 ### 🤖 **AI Orphanage Management System**  
 > *An AI-powered orphanage management platform for donor–child matching, emotion recognition, and smart record management.*
