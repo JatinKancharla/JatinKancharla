@@ -71,13 +71,7 @@ I love designing intelligent systems that transform innovative ideas into realit
 
 ---
 
-### 🏨 **Hotel Management System**  
-> *Automated hotel data management and performance insights.*
-
-**Tech Stack:** Python, Pandas, Matplotlib  
-**Highlights:**  
-- Reservation tracking  
-- Analytical reports  
+  
 
 ---
 
