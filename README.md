@@ -85,17 +85,6 @@ I love designing intelligent systems that transform innovative ideas into realit
 
 ---
 
-## 📊 GitHub Analytics  
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=JatinKancharla&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinKancharla&layout=compact&theme=tokyonight&hide_border=true" height="160px" />  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JatinKancharla&theme=tokyonight&hide_border=true" height="160px" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me  
 
