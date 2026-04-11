@@ -42,7 +42,7 @@ I love designing intelligent systems that transform innovative ideas into realit
 ### 🤖 **AI Orphanage Management System**  
 > *An AI-powered orphanage management platform for donor–child matching, emotion recognition, and smart record management.*
 
-**Tech Stack:** ReactJS, NodeJS, Express, MongoDB, TensorFlow, OpenAI API  
+**Tech Stack:** ReactJS, NodeJS, Express, MongoDB, TensorFlow, 
 **Highlights:**  
 - Emotion recognition & analytics  
 - Automated report generation  
