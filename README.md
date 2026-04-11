@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
 I’m **Sai Sri Jatin Kancharla**, a creative and detail-oriented **Full Stack Developer** with a passion for **Artificial Intelligence**, **Machine Learning**, and **Scalable Web Solutions**.  
 I love designing intelligent systems that transform innovative ideas into reality.  
